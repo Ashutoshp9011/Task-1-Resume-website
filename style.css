@@ -1,0 +1,176 @@
+@font-face {
+    font-family: ashu;
+    src: url(./Kugile_Demo.ttf);
+    font-weight: 400;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ashu;
+    margin-inline-start: 100px;
+    margin-inline-end: 100px;
+    text-align: center;
+    color: white;
+}
+
+#pandey{
+    padding: 40px;
+    margin: 1px;
+    text-align: center;
+    background-color:#011C40;
+    padding-top: 10px;
+}
+
+#sahu{
+    padding: 80px;
+    margin: -1px;
+    margin-block-start: -120px;
+    text-align: center;
+    background-color: #011C40;
+    margin-left: -150px;
+    margin-right: -150px;
+    font-size: 15px;
+}
+
+#verma{
+    background-color: #023859;
+    padding: 10px;
+}
+#sharma{
+    background-color: #023859;
+    padding: 10px;
+    padding-bottom: 30px;
+    margin-block-start: -20px;
+}
+#hero{
+   background-color: #26658C;
+   padding: 10px;
+   margin: 1px;
+   padding-top:10px;
+   padding-bottom: 100px;
+   
+}
+.honda{
+    background-color:#a7c7db;
+    color: white;  
+    margin: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-block-start: -100px;
+}
+.raj{
+    background-color: #a7c7db;
+    color: white;
+    margin: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+#kon{
+background-color: #54acbf;
+padding-top:10px;
+padding-bottom: 190px;
+margin-block-start: 40px;
+
+}
+.kon1{
+    background-color:  rgb(117, 188, 210);
+    margin: 1px;
+    margin-block-start: -200px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.kon2{
+     background-color: rgb(117, 188, 210);
+      margin: 1px;
+     margin-left: 90px;
+     margin-right: 90px;
+}
+.kon3{
+    background-color: rgb(117, 188, 210);
+     margin: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.kon4{
+    background-color: rgb(117, 188, 210);
+    margin: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+#bhai{
+    background-color: rgb(46, 123, 181);
+    margin: 1px;
+    padding-top:15px;
+    padding-bottom: 190px;
+    margin-block-start: 40px;
+   
+}
+.bhai1{
+   background-color: #479bcfb0;
+    margin: 1px;
+    margin-block-start: -160px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.bhai2{
+    background-color: #479bcfb0;
+     margin: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.bhai3{
+    background-color: #479bcfb0;
+     margin: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+#bhaiya{
+    background-color: rgb(99, 175, 234);
+    margin: 1px;
+    padding-top:15px;
+    padding-bottom: 190px;
+    margin-block-start: 70px;
+}
+.bhaiya1{
+   background-color: #7fbcefa1;
+    margin: 1px;
+    margin-block-start: -160px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.bhaiya2{
+    background-color: #7fbcefa1;
+     margin: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.bhaiya3{
+    background-color: #7fbcefa1;
+     margin: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+h5{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(221, 234, 233);
+    padding: 10px;
+}
+
+h6{
+    color: black;
+    font-size: small;
+    text-align: center;
+    background-color: rgb(221, 234, 233);
+    padding: 10px;
+}
+
+   h3, h5, h6 {
+    font-weight: 500;            
+}
